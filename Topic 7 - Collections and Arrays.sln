@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic 7 - Collections and Arrays", "Topic 7 - Collections and Arrays\Topic 7 - Collections and Arrays.csproj", "{A5755884-93DB-41A1-8119-5274499E1A42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5755884-93DB-41A1-8119-5274499E1A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5755884-93DB-41A1-8119-5274499E1A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5755884-93DB-41A1-8119-5274499E1A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5755884-93DB-41A1-8119-5274499E1A42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC417CC6-2E27-4EA4-9EB5-F040E0D0095A}
+	EndGlobalSection
+EndGlobal
